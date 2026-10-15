@@ -1,0 +1,3 @@
+﻿streamlit
+faster-whisper
+# add any other libraries your code imports, e.g. pandas, numpy, etc.
